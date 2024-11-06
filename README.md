@@ -28,4 +28,4 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) API built
    ```bash
    git clone https://github.com/surajmendhe5573/DRFs.git
    cd django-crud-api
-```
+  ```
