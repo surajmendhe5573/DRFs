@@ -1,4 +1,4 @@
-# Django CRUD API with DRF.
+# Django CRUD API with DRF
 
 This project demonstrates a simple CRUD (Create, Read, Update, Delete) API built using Django and Django Rest Framework (DRF). The application allows you to manage `Item` objects with basic CRUD operations.
 
