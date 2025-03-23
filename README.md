@@ -21,6 +21,7 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) API built
 - Django
 - Django Rest Framework
 
+
 ## Installation
 
 1. Clone this repository to your local machine:
